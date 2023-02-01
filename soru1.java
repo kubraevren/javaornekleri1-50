@@ -39,3 +39,14 @@ public class soru1 {
 
 	
 }
+
+
+cikti:
+
+
+tek sayi giriniz: 5
+  *
+  *
+*****
+  *
+  *
