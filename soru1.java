@@ -4,7 +4,7 @@ public class soru1 {
 // klavyeden tek sayi al ve desen olustur: ornek: 5 
 //        *	
 //        *
-//	  * * * * *  
+//    * * * * *  
 //        * 
 //        * 
 	public static void main(String[] args) {
